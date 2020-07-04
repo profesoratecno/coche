@@ -1,11 +1,11 @@
 {
-    "name": "Coche",
+    "name": "RGB",
     "description": "",
     "dependencies": {
         "core": "*",
         "bluetooth": "*",
         "devices": "*",
-        "robotbit": "github:kittenbot/pxt-robotbit#v0.3.6"
+        "magicbit": "github:emakefun/pxt-magicbit#c2730ad2fc00f808a53e4eba2f2b201e47a848c5"
     },
     "files": [
         "main.blocks",
